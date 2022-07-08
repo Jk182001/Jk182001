@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jk182001
-- 👀 I’m interested in development of code
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Java and DBMS
 
 <!---
